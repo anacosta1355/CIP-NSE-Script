@@ -14,7 +14,7 @@ local openssl = stdnse.silent_require "openssl"
 
 
 -- Set your Criminal IP API key here to avoid typing it in every time:
-local apiKey = ""
+local apiKey = "vUK72KmaGQ2BFy13SPixsCgUb2RakqbNqVHA5iNaOqLsomGSf9ldR3M35SBh"
 
 author = "Bo Gab <bkhwang@aispera.com>"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
